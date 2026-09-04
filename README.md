@@ -6,9 +6,9 @@ The 2025 year-end report showed that diabetes spending increased by 20% compared
 ## Key Business Questions
 1. How did total diabetes-related spending change between 2024 and 2025?
 2. Claim category: Was the increase driven by inpatient, outpatient, or professional claims?
-Members: Which members contributed most to the increase?
-Cost concentration: Was the increase spread across many members or concentrated among a few high-cost claimants?
-Underlying drivers: Which diagnoses, procedures, or places of service generated the additional spending?
+3. Members: Which members contributed most to the increase?
+4. Cost concentration: Was the increase spread across many members or concentrated among a few high-cost claimants?
+5. Underlying drivers: Which diagnoses, procedures, or places of service generated the additional spending?
 
 ## Project Architecture
 

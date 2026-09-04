@@ -1,19 +1,25 @@
-# Healthcare AI assisted Analytics
+# AI-Powered Healthcare Support Intelligence
 
 ## Business Problem
 
-## Dataset
-
 ## Key Business Questions
 
-## Data Model
+## Project Architecture
+
+## Dataset
+
+## Data Preparation and Exploratory Analysis
+
+## LLM Classification Pipeline
+
+## Response Generation
+
+## Model Evaluation
 
 ## SQL Analysis
 
-## Python Analysis
-
-## Experimentation
-
 ## Power BI Dashboard
 
-## Findings & Recommendations
+## Findings and Recommendations
+
+## Limitations and Responsible AI
